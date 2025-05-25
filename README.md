@@ -23,7 +23,7 @@ The application requires the following Python modules:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/countdown-timer.git
+git clone https://github.com/RAKSAurum/countdown-timer.git
 cd countdown-timer
 ```
 
